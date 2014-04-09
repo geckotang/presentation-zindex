@@ -369,10 +369,15 @@ z-indexに100000とか
 
 ## 参考
 
+- [Firefox の中身を少し覗いてみる | ヨモツネット](http://www.yomotsu.net/wp/?p=509)
 - [スタック文脈](https://developer.mozilla.org/ja/docs/Web/Guide/CSS/Understanding_z_index/The_stacking_context)
 - [要素の重なりについて本気出して考えてみた（z-indexとか何とかとか）](http://no1026.com/archives/104)
 - [★スタイルシートリファレンス z-index･････重なりの順序を指定する](http://www.htmq.com/style/z-index.shtml)
 
 ---
 
-ご清聴ありがとうございました。
+## もっと読みやすいのは、いつかのCodeGridで
+
+---
+
+## ご清聴ありがとうございました。
